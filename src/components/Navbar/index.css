@@ -1,0 +1,36 @@
+.light-theme {
+  background-color: #fff;
+  color: #000;
+}
+
+.light-theme a {
+  color: #000;
+  text-decoration: none;
+}
+
+.light-theme .change-mode {
+  background-color: #fff;
+  border: 1px solid #000;
+  color: #000;
+}
+
+/* Dark Theme */
+.dark-theme {
+  background-color: #000;
+  color: #fff;
+}
+
+.dark-theme a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.dark-theme .change-mode {
+  background-color: #000;
+  border: 1px solid #fff;
+  color: #fff;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+}
